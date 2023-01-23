@@ -1,0 +1,23 @@
+{
+  "name": "test-landing-1",
+  "version": "1.0.0",
+  "description": "Даний проект буде розширятись за методологією `git flow`\r це означає, що робота з гілками буде слідувати за наступним алгоритмом:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/stfalcon_it_academy/course-13/team-3/test-landing-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/stfalcon_it_academy/course-13/team-3/test-landing-1/issues"
+  },
+  "homepage": "https://gitlab.com/stfalcon_it_academy/course-13/team-3/test-landing-1#readme",
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
